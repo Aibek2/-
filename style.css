@@ -351,6 +351,7 @@ button:hover {
     z-index: 20;
     animation: slideUp 0.5s ease-in-out, glow 2s infinite alternate;
     font-family: 'Dancing Script', cursive;
+     <a href="https://2gis.kz/almaty/geo/70030076162295618/77.071561,43.388471" target="_blank">Открыть в 2ГИС</a>;
 }
 
 @keyframes slideUp {
